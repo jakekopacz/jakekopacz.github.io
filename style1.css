@@ -1,17 +1,20 @@
 body {
   background-color: #000000;
-  color: white;
+  color: green;
   text-align: center;
+}
+
+table {
+    margin-left: auto;
+  margin-right: auto;
 }
 
 #nav-table {
   width: 800px;
-  margin-left: auto; 
-  margin-right: auto;
 }
 
 #nav-td {
-  width: 300px;
+  width: 266px;
   text-align: center;
 }
 
