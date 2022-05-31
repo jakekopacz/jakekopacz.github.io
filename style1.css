@@ -3,3 +3,14 @@ body
   background-color: rgb(0,0,0);
   color: rgb(255,255,255);
 }
+
+#nav-table
+{
+  width: 800px;
+}
+
+#nav-id
+{
+  width: 266px;
+  text-align: center;
+ 
