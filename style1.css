@@ -11,4 +11,9 @@ body {
   width: 300px;
   text-align: center;
 }
- 
+
+div {
+  width: 800px;
+  margin: auto;
+  border: 1px solid red
+}
