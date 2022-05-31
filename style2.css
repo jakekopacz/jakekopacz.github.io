@@ -1,7 +1,9 @@
  body {
-   background-image: url("mybackground.jpg");
-   color: white;
-   text-align: center
+  background-image: url("mybackground.jpg");
+  background-repeat: y-repeat;
+  background-attachment: fixed;
+  color: white;
+  text-align: center
 }
 
 table {
