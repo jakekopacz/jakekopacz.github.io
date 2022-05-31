@@ -1,7 +1,5 @@
  body {
    background-image: url("mybackground.jpg");
-   background-repeat: no-repeat;
-   background-attachment: scroll;
    color: white;
    text-align: center
 }
